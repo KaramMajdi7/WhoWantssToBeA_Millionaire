@@ -1,4 +1,4 @@
-# Who Wantss To Be A Millionaire
+# Who Wants To Be A Millionaire
 
 This game was created using python and the Tkinter library, and it's the famous game who wants to be a millionaire, but
 I made the phone button works in a different way, because I could not find any library that could read the arabic
